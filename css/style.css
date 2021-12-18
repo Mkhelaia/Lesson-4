@@ -7,9 +7,12 @@ header{
 .fonti{
     padding-top: 30px;
     font-size: 22px;
-}
-.siaxle{
-    line-height: 25px;
+    display: inline-block;
+    position: absolute;
+    margin-top: 7px;
+    margin-left: 55px;
+
+
 }
 .linki-1{
     color: #ee4036;
@@ -31,10 +34,10 @@ header{
     font-size: 36px;
     margin: 15px 28px;
     font-family: "BPG Nino Mtavruli Bold", sans-serif;
-    
+    padding-top: 80px;
 }
 .centrfoto{
-    padding-top: 30px;
+    padding-top: 80px;
     width: 1170px;
 }
 .fb{
@@ -54,6 +57,7 @@ img.mtavari{
    text-align: center;
    margin-top: 200px;
    line-height: normal;
+   padding-bottom: 80px;
 }
 .continf{
     color: #3D58A6;
@@ -135,4 +139,8 @@ main{
 	bottom: 0;
 	width: 100%;
 	height: 80px;
+}
+.kontaqti{
+    display: inline-block;
+    margin-left: 10px;
 }
