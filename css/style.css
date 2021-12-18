@@ -144,3 +144,52 @@ main{
     display: inline-block;
     margin-left: 10px;
 }
+.gamyofi2{
+    height: 20px;
+    display: inline-block;
+    border-right: 2px solid #000000;
+}
+.axalitext{
+    margin-top: 120px;
+    font-size: 24px;
+}
+.RESPONSIVE{
+    background-color: #F2F2F2;
+    width: 570px;
+    height: 225px;fdjkfdfjf
+    
+
+
+}
+.divtext{
+    font-family: 'Roboto', sans-serif;
+    font-size: 22px;
+    color: #3D58A6;
+    padding-left: 25px; 
+    margin-top: 10px;
+}
+.divP{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    color: #333333;
+    padding-top: 30px;
+    padding-left: 200px;
+}
+.titi{
+    margin-top: -200px;
+    padding-left: 40px;
+}
+.telefoni{
+    background-color: #F2F2F2;
+    width: 570px;
+    height: 225px;
+    margin-left: 10px;
+
+}
+.saerto{
+    display: flex;
+    padding-top: 25px;
+}
+.pirveligverdi{
+    padding-top: 70px ;
+}
