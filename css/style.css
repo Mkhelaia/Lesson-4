@@ -53,12 +53,6 @@ header{
 img.mtavari{
     font-size: 22px;
 }
-.divcontinf{
-   text-align: center;
-   margin-top: 200px;
-   line-height: normal;
-   padding-bottom: 80px;
-}
 .continf{
     color: #3D58A6;
     font-family: "BPG Nino Mtavruli Bold", sans-serif;
@@ -133,13 +127,7 @@ main{
     display: inline-block;
     border-right: 2px solid #363E97;
 }
-.adgili {
-	position: absolute;
-	left: 0;
-	bottom: 0;
-	width: 100%;
-	height: 80px;
-}
+
 .kontaqti{
     display: inline-block;
     margin-left: 10px;
@@ -157,17 +145,9 @@ main{
     background-color: #F2F2F2;
     width: 570px;
     height: 225px;fdjkfdfjf
-    
+    }
 
 
-}
-.divtext{
-    font-family: 'Roboto', sans-serif;
-    font-size: 22px;
-    color: #3D58A6;
-    padding-left: 25px; 
-    margin-top: 10px;
-}
 .divP{
     font-family: 'Roboto', sans-serif;
     font-size: 20px;
@@ -199,3 +179,23 @@ main{
 .st1{
     margin: -40px 0;
     padding-left: 40px;
+}
+.shua{
+    background-color: #E6E6E6;
+    width: 100%;
+    height: 570px;
+    margin-top: 25px;
+}
+.map{
+    margin-left: 410px;
+    margin-top: -80px;
+}
+.divcontinf{
+    padding-top: 60px;
+    padding-left: 150px;
+}
+.divtext{
+    font-size: 22px;
+    margin-left: 25px;
+    margin-top: 20px;
+}
