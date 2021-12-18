@@ -193,3 +193,9 @@ main{
 .pirveligverdi{
     padding-top: 70px ;
 }
+.pirvelistatia{
+    display: flex;
+}
+.st1{
+    margin: -40px 0;
+    padding-left: 40px;
